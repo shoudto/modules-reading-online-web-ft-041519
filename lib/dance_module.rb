@@ -1,6 +1,6 @@
 class Dance 
   
-  def twirl method 
+  def twirl  
     puts "I'm twirling!"
   end 
   
