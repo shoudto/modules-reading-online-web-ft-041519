@@ -1,7 +1,7 @@
 class Dance 
   
   def twirl method 
-    puts "I'm twirling"
+    puts "I'm twirling!"
   end 
   
   def jump 
